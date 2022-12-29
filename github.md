@@ -28,3 +28,17 @@
     - git remote -v
 - 버전관리 제외 파일 목록
     - .gitignore 파일 생성 후 제외 목록 추가
+
+# branch 명령어
+- 브랜치 생성
+    - git branch {브랜치명}
+- 브랜치 이동
+    - git checkout {브랜치명}
+- 브랜치 생성 및 이동
+    - git checkout -b {브랜치명}
+- 브랜치 삭제
+    - git branch -d {브랜치명}
+- 브랜치 목록
+    - git branch
+-  브랜치 병합
+    - git merge {브랜치명}

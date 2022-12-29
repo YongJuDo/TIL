@@ -1,0 +1,13 @@
+# branch 명령어
+- 브랜치 생성
+    - git branch {브랜치명}
+- 브랜치 이동
+    - git checkout {브랜치명}
+- 브랜치 생성 및 이동
+    - git checkout -b {브랜치명}
+- 브랜치 삭제
+    - git branch -d {브랜치명}
+- 브랜치 목록
+    - git branch
+-  브랜치 병합
+    - git merge {브랜치명}
